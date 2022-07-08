@@ -10,7 +10,7 @@ cortex-m = "0.7.4"
 cortex-m-rt = "0.7.1"
 
 [dependencies.acm32f40x]
-path = "../acm32f40x"
+git = "https://github.com/shaoxi2010/acm32f4.git"
 
 [dependencies.rtt-target]
 version = "0.3.1"
